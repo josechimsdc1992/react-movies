@@ -1,0 +1,76 @@
+{
+    "Search": [
+    {
+    "Title": "Garfield: The Movie",
+    "Year": "2004",
+    "imdbID": "tt0356634",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTIzMTc1OTUxOV5BMl5BanBnXkFtZTYwNTMxODc3._V1_SX300.jpg"
+    },
+    {
+    "Title": "Garfield: A Tail of Two Kitties",
+    "Year": "2006",
+    "imdbID": "tt0455499",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOGU3ZTMyMDAtNTQ4My00NWMxLTk3OTMtOTUwMTI5MGRlNTU4XkEyXkFqcGdeQXVyMTA1NjE5MTAz._V1_SX300.jpg"
+    },
+    {
+    "Title": "Garfield and Friends",
+    "Year": "1988–1995",
+    "imdbID": "tt0094469",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGQ0ZTc2ZjMtNjE2Mi00NjU3LTkyNDktNDA0NmUwODE1OTZmXkEyXkFqcGdeQXVyODk1MjAxNzQ@._V1_SX300.jpg"
+    },
+    {
+    "Title": "The Garfield Movie",
+    "Year": "2024",
+    "imdbID": "tt5779228",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDdlNTIwNjYtNzVhNS00MGVmLTk1ZGYtZmZiMjhiMmQ1ZjkwXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_SX300.jpg"
+    },
+    {
+    "Title": "A Garfield Christmas Special",
+    "Year": "1987",
+    "imdbID": "tt0302596",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjVmNjdhN2QtOWVkYi00MDQwLTgyYTAtMGNkNjliMjlkZDM5XkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_SX300.jpg"
+    },
+    {
+    "Title": "The Garfield Show",
+    "Year": "2008–2016",
+    "imdbID": "tt1470837",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYWJkODE3NjMtNTUzMi00MDg4LTk3NTYtZDEyZmU5OTFhYTBhXkEyXkFqcGdeQXVyMTA1NTQ5Nzcz._V1_SX300.jpg"
+    },
+    {
+    "Title": "Garfield in Disguise",
+    "Year": "1985",
+    "imdbID": "tt0279830",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjQ3OTJmM2EtYTk0OC00NWE0LTgzNzctZjRlNzQ4ZTIwYWQyXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_SX300.jpg"
+    },
+    {
+    "Title": "Garfield Gets Real",
+    "Year": "2007",
+    "imdbID": "tt1059793",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTY5YzIzMDItY2ViNi00ZDI1LWFiNjEtZTY0ZjM0ZGYwYWUwXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_SX300.jpg"
+    },
+    {
+    "Title": "Here Comes Garfield",
+    "Year": "1982",
+    "imdbID": "tt0166218",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTI4OTUwNTE4N15BMl5BanBnXkFtZTcwODgzNjYxMQ@@._V1_SX300.jpg"
+    },
+    {
+    "Title": "Garfield: His 9 Lives",
+    "Year": "1988",
+    "imdbID": "tt0292522",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzA2MDIwMDgtYzdmNC00MzY1LTliYzctNWUyYTM4YzY0OTNiXkEyXkFqcGdeQXVyODk0MjM0NTk@._V1_SX300.jpg"
+    }
+    ],
+    "totalResults": "52",
+    "Response": "True"
+    }
